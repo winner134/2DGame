@@ -1,4 +1,4 @@
-/* Osama Mohammed
+/* Sami Mohammed
 CS 5472
 2D Game in OpenGL
 */
